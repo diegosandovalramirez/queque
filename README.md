@@ -23,6 +23,8 @@ editar/revisar el de abajo (importante para Frond-End) v v v
 	* Número de gestión
 	* Nombre completo del usuario
 	* R.U.N.
+	* Producto(s) comprado(s)
+	* Monto del pago
 	* Fecha de compra
 	* Método de pago
 	* Calificación para cada usuario (determinado en base de su comportamiento relacionado al negocio)
