@@ -28,7 +28,8 @@
     "express": "^4.14.0",
     "morgan": "^1.7.0",
     "path": "^0.12.7",
-    "pg-promise": "^5.2.7"
+    "pg-promise": "^5.2.7",
+    "react-admin": "^4.0.3"
   },
   "devDependencies": {
     "babel": "^6.5.2",
