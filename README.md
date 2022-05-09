@@ -14,6 +14,9 @@ Dashboard en línea creado con utilizando un stack PERN. Existe con el fin de pe
   * Bundler de aplicación para el cliente React
 - [Dotenv](https://github.com/motdotla/dotenv)
   * Carga variables `ENV` desde un archivo `.env`
+- [React-admin](https://github.com/marmelab/react-admin)
+  * Package para crear dashboards
+
 
 editar/revisar el de abajo (importante para Frond-End) v v v
 - [CSS Modules](https://github.com/css-modules/css-modules) - [Demo of CSS Modules with Webpack](https://github.com/css-modules/webpack-demo)
