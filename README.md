@@ -19,6 +19,8 @@ editar/revisar el de abajo (importante para Frond-End) v v v
 - [CSS Modules](https://github.com/css-modules/css-modules) - [Demo of CSS Modules with Webpack](https://github.com/css-modules/webpack-demo)
 
 ## Características Principales:
+- Inicio de sesión requerido para acceder a los datos.
+
 - Registro de ventas comprehensivo; se detallan datos respecto a las compras realizadas, incluyendo:
 	* Número de gestión
 	* Nombre completo del usuario
